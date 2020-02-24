@@ -1,6 +1,7 @@
 install: 
 	poetry install
 	poetry add prompt
+	poetry add wemake_python_styleguide
 
 lint:
 	poetry run flake8 brain-games
