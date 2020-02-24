@@ -4,9 +4,10 @@ python: 3.6
 before_install:
   # make depends on poetry
   - pip install poetry
+  -pip install wemake_python_styleguide
 
 install:
   - make install
 
 script:
-  - make check
+  - make lint
