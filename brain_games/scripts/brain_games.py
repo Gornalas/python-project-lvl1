@@ -1,10 +1,19 @@
+"""Project 1-lvl1."""
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+from brain_games import cli
+
 
 def greet(what):
-	print('Welcome to the {}!'.format(what))
+    """First word for console."""
+    print('Welcome to the {}!'.format(what))
+
 
 def main():
+    """Body of program."""
     greet('Brain Games')
+    cli.welcome_user()
+
 
 if __name__ == '__main__':
     main()
