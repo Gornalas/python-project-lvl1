@@ -3,7 +3,6 @@
 # -*- coding: utf-8 -*-
 import prompt
 
-
 name = "Username"
 
 

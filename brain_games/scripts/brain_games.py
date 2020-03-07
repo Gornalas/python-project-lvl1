@@ -2,7 +2,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 from brain_games import cli
-from brain_games.scripts import brain_even
 
 
 def greet(what):
