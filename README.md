@@ -5,3 +5,5 @@
 [![Build Status](https://travis-ci.com/Gornalas/python-project-lvl1.svg?branch=master)](https://travis-ci.com/Gornalas/python-project-lvl1)
 
 <a href="https://asciinema.org/a/WMaUs6XiviUZruBmWuhJ8mLQi" target="_blank"><img src="https://asciinema.org/a/WMaUs6XiviUZruBmWuhJ8mLQi.svg" /></a>
+
+<a href="https://asciinema.org/a/OoksT4LJYB9JslaCSXGlidFAr" target="_blank"><img src="https://asciinema.org/a/OoksT4LJYB9JslaCSXGlidFAr.svg" /></a>
