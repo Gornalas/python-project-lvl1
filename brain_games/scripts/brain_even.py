@@ -2,6 +2,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 from brain_games import cli
+from brain_games.scripts import brain_games
 import random
 
 def even_odd_game():
@@ -29,5 +30,5 @@ def even_odd_game():
 
 def main():
 	"""Body of program."""
-	cli.welcome_user()
+	brain_games.main()
 	even_odd_game()

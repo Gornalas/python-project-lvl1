@@ -14,7 +14,6 @@ def main():
     """Body of program."""
     greet('Brain Games')
     cli.welcome_user()
-    #brain_even.even_odd_game()
     
 
 if __name__ == '__main__':
