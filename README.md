@@ -4,6 +4,11 @@
 
 [![Build Status](https://travis-ci.com/Gornalas/python-project-lvl1.svg?branch=master)](https://travis-ci.com/Gornalas/python-project-lvl1)
 
+Brain-even
 <a href="https://asciinema.org/a/WMaUs6XiviUZruBmWuhJ8mLQi" target="_blank"><img src="https://asciinema.org/a/WMaUs6XiviUZruBmWuhJ8mLQi.svg" /></a>
 
+Brain-calc
 <a href="https://asciinema.org/a/OoksT4LJYB9JslaCSXGlidFAr" target="_blank"><img src="https://asciinema.org/a/OoksT4LJYB9JslaCSXGlidFAr.svg" /></a>
+
+Brain-gcd
+<a href="https://asciinema.org/a/wfTs9yaI8uFHLy4lFgIKJsVrk" target="_blank"><img src="https://asciinema.org/a/wfTs9yaI8uFHLy4lFgIKJsVrk.svg" /></a>
