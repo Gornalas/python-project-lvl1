@@ -5,16 +5,21 @@
 [![Build Status](https://travis-ci.com/Gornalas/python-project-lvl1.svg?branch=master)](https://travis-ci.com/Gornalas/python-project-lvl1)
 
 Brain-even
+
 <a href="https://asciinema.org/a/sPtClwEyV0ATP0kmNTUyZUQqv" target="_blank"><img src="https://asciinema.org/a/sPtClwEyV0ATP0kmNTUyZUQqv.svg" /></a>
 
 Brain-calc
+
 <a href="https://asciinema.org/a/mHsbdHD2QLstcP6bnJnWUNlgH" target="_blank"><img src="https://asciinema.org/a/mHsbdHD2QLstcP6bnJnWUNlgH.svg" /></a>
 
 Brain-gcd
+
 <a href="https://asciinema.org/a/Rx5MQdu0mygJKfXzkIvLPyLHn" target="_blank"><img src="https://asciinema.org/a/Rx5MQdu0mygJKfXzkIvLPyLHn.svg" /></a>
 
 Brain-progression
+
 [![asciicast](https://asciinema.org/a/P9NMhx8PiTMbEEDyJqkLZXJpa.svg)](https://asciinema.org/a/P9NMhx8PiTMbEEDyJqkLZXJpa)
 
 Brain-prime
+
 <a href="https://asciinema.org/a/o2kS9p1Yt23lnobpyJWxJUWgQ" target="_blank"><img src="https://asciinema.org/a/o2kS9p1Yt23lnobpyJWxJUWgQ.svg" /></a>
