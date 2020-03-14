@@ -6,13 +6,12 @@ from brain_games.scripts import brain_games
 
 
 def prime():
-	"""Check on prime."""
-	print('Answer "yes" if given number is prime. Otherwise answer "no".')
-	gorn_game_engine.prime()
+    """Check on prime."""
+    print('Answer "yes" if given number is prime. Otherwise answer "no".')
+    gorn_game_engine.prime()
 
 
 def main():
-	"""Body of program."""
-	brain_games.main()
-	prime()
-
+    """Body of program."""
+    brain_games.main()
+    prime()

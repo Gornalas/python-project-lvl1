@@ -6,13 +6,12 @@ from brain_games.scripts import brain_games
 
 
 def calc():
-	"""Find result of expression"""
-	print('What is the result of the expression?\n')
-	gorn_game_engine.calc()
+    """Find result of expression."""
+    print('What is the result of the expression?\n')
+    gorn_game_engine.calc()
 
 
 def main():
-	"""Body of program."""
-	brain_games.main()
-	calc()
-
+    """Body of program."""
+    brain_games.main()
+    calc()

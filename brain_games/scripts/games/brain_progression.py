@@ -6,13 +6,12 @@ from brain_games.scripts import brain_games
 
 
 def progression():
-	"""Find missing integer"""
-	print('What number is missing in the progression?\n')
-	gorn_game_engine.progression()
-	
+    """Find missing integer."""
+    print('What number is missing in the progression?\n')
+    gorn_game_engine.progression()
+
 
 def main():
-	"""Body of program."""
-	brain_games.main()
-	progression()
-
+    """Body of program."""
+    brain_games.main()
+    progression()

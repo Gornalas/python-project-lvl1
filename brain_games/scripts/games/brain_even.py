@@ -6,11 +6,12 @@ from brain_games.scripts import brain_games
 
 
 def even_odd_game():
-	"""Check on even-odd."""
-	print('Answer "yes" if number even otherwise answer "no".')
-	gorn_game_engine.even()
+    """Check on even-odd."""
+    print('Answer "yes" if number even otherwise answer "no".')
+    gorn_game_engine.even()
+
 
 def main():
-	"""Body of program."""
-	brain_games.main()
-	even_odd_game()
+    """Body of program."""
+    brain_games.main()
+    even_odd_game()
