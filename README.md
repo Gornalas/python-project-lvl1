@@ -12,3 +12,9 @@ Brain-calc
 
 Brain-gcd
 <a href="https://asciinema.org/a/wfTs9yaI8uFHLy4lFgIKJsVrk" target="_blank"><img src="https://asciinema.org/a/wfTs9yaI8uFHLy4lFgIKJsVrk.svg" /></a>
+
+Brain-progression
+<a href="https://asciinema.org/a/NIFomezKMzMee44SETfE8Desi" target="_blank"><img src="https://asciinema.org/a/NIFomezKMzMee44SETfE8Desi.svg" /></a>
+
+Brain-prime
+<a href="https://asciinema.org/a/rfB1UzIYejUGcv6spK16ISNyO" target="_blank"><img src="https://asciinema.org/a/rfB1UzIYejUGcv6spK16ISNyO.svg" /></a>
