@@ -12,8 +12,7 @@ def greet(what):
 def main():
     """Body of program."""
     greet('Brain Games')
-    cli.welcome_user()
-    
+    cli.welcome_user()    
 
 if __name__ == '__main__':
     main()

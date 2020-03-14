@@ -66,7 +66,7 @@ def gcd():
         first_num = randint(1, 100)
         second_num = randint(1, 100)
         print(str(first_num) + ' ' + str(second_num))
-        user_answer = prompt.integer(prompt = 'Your answer: ')
+        user_answer = prompt.integer(prompt='Your answer: ')
         result = nod(first_num, second_num)
         check(user_answer, result)
     print('Congratulations, {}!\n'.format(cli.name))
