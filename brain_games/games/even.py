@@ -1,18 +1,13 @@
-#!/usr/bin/env python3
 """Module for even-odd game."""
-# -*- coding: utf-8 -*-
-import random
+from random import randint
 
 rules = "Answer 'yes' if number even otherwise answer 'no'."
 
 
 def round_data():
-    """Code for engine"""
-    ask = random.randint(1, 50)
-    print (ask)
-    result = ''
+    """Code for engine."""
+    ask = randint(1, 100)
+    print(ask)
     if ask % 2 == 0:
-        result = 'yes'
-    else:
-        result = 'no'
-    return result
+        return 'yes'
+    return 'no'
