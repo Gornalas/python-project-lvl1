@@ -21,7 +21,8 @@ def main_body(game):
         correct_answer = game.round_data()
         answer = prompt.string('Your answer: ')
         if answer != correct_answer:
-            print('\n"%s" is wrong answer ;(. Correct answer was "%s"' % (answer, correct_answer))
+            print('\n"%s" is wrong answer ;(. '
+            'Correct answer was "%s"' % (answer, correct_answer))
             print("Let's try again, %s!\n" % (name))
             continue
         print('Correct!')

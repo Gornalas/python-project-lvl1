@@ -8,7 +8,7 @@ The project is a series of logic games written with Python. Each module is calle
 Programm code for install:
 ---------------------------------------------------------------------------------------------
 
-pip install --user -i https://test.pypi.org/simple/ gornalas-brain-games --extra-index-url https://pypi.org/simple/
+>pip install --user -i https://test.pypi.org/simple/ gornalas-brain-games --extra-index-url https://pypi.org/simple/
 
 ### **Brain-even**
 #### In this game, you need to answer whether the number is even or odd.
