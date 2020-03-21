@@ -1,7 +1,6 @@
-"""Project 1-lvl1."""
 #!/usr/bin/env python3
+"""Project 1-lvl1."""
 # -*- coding: utf-8 -*-
-from brain_games import cli
 
 
 def greet(what):
@@ -11,8 +10,7 @@ def greet(what):
 
 def main():
     """Body of program."""
-    greet('Brain Games')
-    cli.welcome_user()    
+    greet('Brain Games')  
 
 if __name__ == '__main__':
     main()
