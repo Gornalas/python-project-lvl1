@@ -1,5 +1,6 @@
 language: python
 python: 3.6
+wemake-python-styleguide: 0.8
 
 before_install:
   # make depends on poetry
