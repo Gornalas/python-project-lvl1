@@ -5,7 +5,7 @@ from brain_games.games import progression
 
 def main():
     """Body of program."""
-    gorn_game_engine.main_body(progression)
+    gorn_game_engine.run(progression)
 
 
 if __name__ == '__main__':

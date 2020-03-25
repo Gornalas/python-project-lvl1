@@ -5,26 +5,25 @@ from brain_games.scripts import brain_games
 import prompt
 
 
-def greeting(game):
-    """First words."""
+def run(game, rounds = 3):
+    """Check user's answer."""
     brain_games.main()
     print(game.rules)
     name = cli.welcome_user()
-    return name
-
-
-def main_body(game):
-    """Check user's answer."""
-    name = greeting(game)
-    correct = 3
-    while correct:
-        correct_answer = game.round_data()
+    while rounds:
+        question, correct_answer = game.round_data()
+        print(question)
+        print()
         answer = prompt.string('Your answer: ')
         if answer != correct_answer:
-            print('\n"%s" is wrong answer ;(. '
+            print()
+            print('"%s" is wrong answer ;(. '
                  'Correct answer was "%s"' % (answer, correct_answer))
-            print("Let's try again, %s!\n" % (name))
-            continue
+            print("Let's try again, %s!" % (name))
+            print()
+            break
         print('Correct!')
-        correct -= 1
-    print('\nCongratulations, %s!\n' % (name))
+        rounds -= 1
+    if rounds == 0:
+        print()
+        print('Congratulations, %s!' % (name))

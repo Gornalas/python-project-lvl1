@@ -13,7 +13,5 @@ def round_data():
     miss_num = randint(0, 9)
     correct_answer = str(array[miss_num])
     array[miss_num] = '..'
-    for index in array:
-        print(index, end=' ')
-    print()
-    return correct_answer
+    question = array
+    return question, correct_answer

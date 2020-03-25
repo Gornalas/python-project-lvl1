@@ -7,7 +7,8 @@ rules = "Answer 'yes' if number even otherwise answer 'no'."
 def round_data():
     """Code for engine."""
     ask = randint(1, 100)
-    print(ask)
+    question = ask
+    right_answer = 'no'
     if ask % 2 == 0:
-        return 'yes'
-    return 'no'
+        right_answer = 'yes'
+    return question, right_answer

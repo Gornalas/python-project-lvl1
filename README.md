@@ -2,10 +2,11 @@
 
 [![Build Status](https://travis-ci.com/Gornalas/python-project-lvl1.svg?branch=master)](https://travis-ci.com/Gornalas/python-project-lvl1)
 
-The project is a series of logic games written with Python. Each module is called separately. You must answer correctly three times to win game.
+Brain games.
 =============================================================================================
+The project is a series of logic games written with Python. Each module is called separately. You must answer correctly three times to win game.
 
-Programm code for install:
+Program code for installation:
 ---------------------------------------------------------------------------------------------
 
 >pip install --user -i https://test.pypi.org/simple/ gornalas-brain-games --extra-index-url https://pypi.org/simple/

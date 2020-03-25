@@ -5,7 +5,7 @@ from brain_games.games import prime
 
 def main():
     """Body of program."""
-    gorn_game_engine.main_body(prime)
+    gorn_game_engine.run(prime)
 
 
 if __name__ == '__main__':
