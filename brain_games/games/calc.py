@@ -1,7 +1,7 @@
 """Module for calculate game."""
 import operator, random
 
-rules = 'What is the result of the expression?'
+RULES = 'What is the result of the expression?'
 OPERATOR = ((operator.add, '+'), (operator.sub, '-'), (operator.mul, '*'))
 
 

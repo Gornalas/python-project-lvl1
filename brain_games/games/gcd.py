@@ -1,7 +1,7 @@
 """Module for GCD game."""
 from random import randint
 
-rules = 'Find the greatest common divisor of given numbers.'
+RULES = 'Find the greatest common divisor of given numbers.'
 
 
 def round_data():

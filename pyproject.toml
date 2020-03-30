@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "Gornalas_brain_games"
-version = "1.0.2"
+version = "1.1.1"
 description = "Basic mind games"
 authors = ["Alex_Gorn"]
 packages = [{ include = "brain_games" },]

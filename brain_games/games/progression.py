@@ -1,7 +1,7 @@
 """Module for progression game."""
 from random import randint
 
-rules = 'What number is missing in the progression?'
+RULES = 'What number is missing in the progression?'
 
 
 def round_data():
@@ -13,5 +13,5 @@ def round_data():
     miss_num = randint(0, 9)
     correct_answer = str(array[miss_num])
     array[miss_num] = '..'
-    question = array
+    question = str(array)
     return question, correct_answer

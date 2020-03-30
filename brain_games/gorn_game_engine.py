@@ -8,7 +8,7 @@ import prompt
 def run(game, rounds = 3):
     """Check user's answer."""
     brain_games.main()
-    print(game.rules)
+    print(game.RULES)
     name = cli.welcome_user()
     while rounds:
         question, correct_answer = game.round_data()
@@ -24,6 +24,6 @@ def run(game, rounds = 3):
             break
         print('Correct!')
         rounds -= 1
-    if rounds == 0:
+    else:
         print()
         print('Congratulations, %s!' % (name))

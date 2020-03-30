@@ -1,7 +1,7 @@
 """Module for even-odd game."""
 from random import randint
 
-rules = "Answer 'yes' if number even otherwise answer 'no'."
+RULES = "Answer 'yes' if number even otherwise answer 'no'."
 
 
 def round_data():
